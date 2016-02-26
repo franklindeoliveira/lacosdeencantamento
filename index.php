@@ -48,7 +48,6 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
                 <p>Faça parte da nossa lista de emails!</p>
                 <form action="enviarEmail.php">
                     <input name="nome" placeholder="Seu nome" type="text" id="seuNome"><br />
-                    <input name="assunto" placeholder="Assunto do email" type="text" id="assunto"><br />
                     <input placeholder="Nome do bebê" type="text" id="nomeDoBebe"><br />
                     <input placeholder="Data de nascimento do bebê" type="date" id="dataDeNascimentoDoBebe"><br />
                     <input placeholder="Seu email" type="email" id="email">

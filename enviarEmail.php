@@ -1,17 +1,19 @@
 <?php
-  //1 – Definimos Para quem vai ser enviado o email
   $para = "franklindeoliveira@gmail.com";
-  //2 - resgatar o nome digitado no formulário e  grava na variavel $nome
-  $nome = $_POST['nome'];
-  // 3 - resgatar o assunto digitado no formulário e  grava na variavel //$assunto
-  $assunto = $_POST['assunto'];
-   //4 – Agora definimos a  mensagem que vai ser enviado no e-mail
-  $mensagem = "<strong>Nome:  </strong>".$nome;
-  $mensagem .= "<br>  <strong>Mensagem: </strong>".$_POST['mensagem'];
+  $seuNome = $_POST['seuNome'];
+  $nomeDoBebe = $_POST['nomeDoBebe'];
+  $dataDeNascimentoDoBebe = $_POST['dataDeNascimentoDoBebe'];
+  $seuEmail = $_POST['seuEmail'];
+
+  $mensagem = "A seguinte pessoa gostaria de fazer parte da lista de emails do site:"
+  $mensagem = "<br /><br /><strong>Seu nome:  </strong>".$seuNome;
+  $mensagem = "<br /><strong>Nome:  </strong>".$nomeDoBebe;
+  $mensagem = "<br /><strong>Nome:  </strong>".$dataDeNascimentoDoBebe;
+  $mensagem = "<br /><strong>Nome:  </strong>".$seuEmail;
 
 //5 – agora inserimos as codificações corretas e  tudo mais.
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
-  $headers .= "From:  dominio.com.br<sistema@dominio.com.br>\n"; //Vai ser //mostrado que  o email partiu deste email e seguido do nome
+  $headers .= "From:  lacosdeencantamento.com.br<sistema@dominio.com.br>\n"; //Vai ser //mostrado que  o email partiu deste email e seguido do nome
   $headers .= "X-Sender:  <sistema@dominio.com.br>\n"; //email do servidor //que enviou
   $headers .= "X-Mailer: PHP  v".phpversion()."\n";
   $headers .= "X-IP:  ".$_SERVER['REMOTE_ADDR']."\n";
