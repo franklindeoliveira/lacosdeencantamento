@@ -47,10 +47,10 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
             <div class="lista-email">
                 <p>Faça parte da nossa lista de emails!</p>
                 <form action="enviarEmail.php">
-                    <input name="nome" placeholder="Seu nome" type="text" id="seuNome"><br />
-                    <input placeholder="Nome do bebê" type="text" id="nomeDoBebe"><br />
-                    <input placeholder="Data de nascimento do bebê" type="date" id="dataDeNascimentoDoBebe"><br />
-                    <input placeholder="Seu email" type="email" id="email">
+                    <input name="seuNome" placeholder="Seu nome" type="text" id="seuNome"><br />
+                    <input name="nomeDoBebe" placeholder="Nome do bebê" type="text" id="nomeDoBebe"><br />
+                    <input name="dataDeNascimentoDoBebe" placeholder="Data de nascimento do bebê" type="date" id="dataDeNascimentoDoBebe"><br />
+                    <input name="seuEmail" placeholder="Seu email" type="email" id="email">
                     
                     <input type="submit" value="Quero fazer parte!">
                 </form>
