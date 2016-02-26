@@ -5,7 +5,7 @@
   $dataDeNascimentoDoBebe = $_POST['dataDeNascimentoDoBebe'];
   $seuEmail = $_POST['seuEmail'];
 
-  $mensagem = "A seguinte pessoa gostaria de fazer parte da lista de emails do site:"
+  $mensagem = "A seguinte pessoa gostaria de fazer parte da lista de emails do site:";
   $mensagem = "<br /><br /><strong>Seu nome:  </strong>".$seuNome;
   $mensagem = "<br /><strong>Nome:  </strong>".$nomeDoBebe;
   $mensagem = "<br /><strong>Nome:  </strong>".$dataDeNascimentoDoBebe;
