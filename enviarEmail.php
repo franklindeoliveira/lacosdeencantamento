@@ -7,6 +7,10 @@
   $seuEmail = $_POST['seuEmail'];
 
   $mensagem = "A seguinte pessoa gostaria de fazer parte da lista de emails do site:";
+  $mensagem .= "<br /><br /><strong>Seu nome:  </strong>".$seuNome;
+  $mensagem .= "<br /><strong>Nome do bebê:  </strong>".$nomeDoBebe;
+  $mensagem .= "<br /><strong>Data de nascimento do bebê:  </strong>".$dataDeNascimentoDoBebe;
+  $mensagem .= "<br /><strong>Seu email:  </strong>".$seuEmail;
 
 //5 – agora inserimos as codificações corretas e  tudo mais.
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
