@@ -1,0 +1,304 @@
+h1 {
+    text-align: center;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header, main, footer {
+    padding: 10px;
+}
+body {
+    background: url(../img/bg.jpg);
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+header, main, footer {
+    background-color: rgba(255,255,255,.5);
+}
+
+.menu-opcoes ul li {
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+}
+
+.menu-opcoes a {
+    color: #1390A0;
+}
+
+.menu-opcoes {
+	text-align: center;  
+    text-transform: uppercase;
+}
+
+header, main, .container {
+	max-width: 940px;
+}
+
+header, .container {
+	margin: 0 auto;
+}
+
+main {
+    margin: 10px auto;
+}
+
+section.carrossel-imagens img {
+    max-width: 100%;
+}
+
+section.carrossel-imagens {
+    text-align: center;
+}
+
+.locais-oficinas img {
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(19, 144, 160);
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+html  {
+    min-height: 100%;
+}
+
+footer .container {
+    position: relative;
+}
+
+.social a {
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+    text-indent: -9999px;
+    margin-left: 10px;
+}
+
+.social {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.logoFooter {
+    width: 100px;
+}
+
+.social li {
+    display: inline-block;
+}
+
+.social .youtube {
+    background-image: url(../img/youtube.png);
+}
+
+.social .facebook {
+    background-image: url(../img/facebook.png);
+}
+
+.social .twitter {
+    background-image: url(../img/twitter.png);
+}
+
+.social .googleplus {
+    background-image: url(../img/googleplus.png);
+}
+
+.logoHeader {
+    width: 100px;
+}
+
+h2 {
+    color: rgb(138, 40, 153);
+}
+
+.locais-oficinas img {
+    border-radius: 5px;
+}
+
+.locais-oficinas h3 {
+    margin: 5px 0px;
+}
+
+section {
+    margin: 15px 0px;
+    margin-top: 0px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+figure {
+    border-radius: 5px;
+    padding: 5px;
+/*    border: 1px solid rgb(138, 40, 153);*/
+    background-color: rgb(244,209,86);
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.casa-curumim {
+    margin-bottom: 10px;
+}
+
+.lista-email input {
+    min-width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.lista-email {
+    background-color: rgb(244,209,86);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sobre-nos img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.sobre-nos {
+    text-align: center;
+}
+
+.sobre-nos img {
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.sobre-nos figcaption {
+    margin-top: 5px;
+}
+
+.sobre-nos figure {
+    background-color: rgb(244,209,86);
+    border: none;
+    box-shadow: 1px 1px 1px #000;
+}
+
+.locais-oficinas figure {
+    background-color: rgb(244,209,86);
+    border: none;
+    box-shadow: 1px 1px 1px #000;
+    padding: 10px;
+}
+
+.sobre-nos h3 {
+    font-weight: bold;
+    text-shadow: 1px 1px 3px #fff;
+}
+
+.contato textarea {
+    width: 100%;
+    box-sizing: border-box;
+    height: 100px;
+    border-radius: 5px;
+    resize: none;
+}
+
+section img {
+    border-radius: 5px;
+}
+
+.sobre-nos figure {
+    margin-bottom: 10px;
+}
+
+.sobre-nos figure p {
+    margin-bottom: 10px;
+}
+
+.sobre-nossas-oficinas p {
+    margin-bottom: 10px;
+}
+
+.tipos-brincadeiras img {
+    width: 100%;
+}
+.tipos-brincadeiras figure {
+    min-height: 600px;
+}
+
+header, main {
+    max-width: 90%;
+}
+
+.tipos-brincadeiras section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.tipos-brincadeiras {
+    text-align: center;
+}
+
+.lista-email {
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+}
+
+.sobre-nos figure {
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    max-width: 290px;
+}
+
+.locais-oficinas figure {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    max-width: 335px;
+    min-height: 400px;
+}
+
+.locais-oficinas {
+    text-align: center;
+}
+
+.contato {
+    text-align: center;
+}
+
+@media (min-width: 457px) {
+
+    .sobre-nos figure {
+        height: 300px;
+    }
+}
+
+@media (min-width: 940px) {
+    header, main {
+        width: 940px;
+    }
+}
+
+@media (min-width: 310px) {
+    .tipos-brincadeiras section {
+        width: 310px;
+    }
+}
