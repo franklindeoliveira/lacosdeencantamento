@@ -56,6 +56,21 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
                     <input type="submit" value="Quero fazer parte!">
                 </form>
             </div>
+            <div class="redes-sociais lista-email">
+                <p>Canais de comunicação!</p>
+                <div>
+                    <a target="_blank" href="https://www.facebook.com/brincadeirasdebebelacos">
+                        <img src="img/facebook.svg" alt="Facebook">
+                        <p>Acompanhe nossos eventos no Facebook!</p>
+                    </a>
+                </div>
+                <div>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCiVmKurWXuDKy1uQvZFI2Lg">
+                        <img src="img/youtube.svg" alt="YouTube">
+                        <p>Acompanhe nosso canal no YouTube!</p>
+                    </a>
+                </div>
+            </div>
         </section>
     </main>
     <?php include("rodape.php"); ?>

@@ -107,19 +107,11 @@ footer .container {
 }
 
 .social .youtube {
-    background-image: url(../img/youtube.png);
+    background-image: url(../img/youtube.svg);
 }
 
 .social .facebook {
-    background-image: url(../img/facebook.png);
-}
-
-.social .twitter {
-    background-image: url(../img/twitter.png);
-}
-
-.social .googleplus {
-    background-image: url(../img/googleplus.png);
+    background-image: url(../img/facebook.svg);
 }
 
 .logoHeader {
@@ -284,6 +276,10 @@ header, main {
     text-align: center;
 }
 
+.contato div {
+    margin: 15px 0;
+}
+
 @media (min-width: 457px) {
 
     .sobre-nos figure {
@@ -312,5 +308,42 @@ header, main {
 }
 
 .galeria-fotos a {
+    text-decoration: none;
+}
+
+.contato .lista-email, .contato .redes-sociais{
+    display: inline-block;
+    min-width: 40%;
+    height: 250px;
+    vertical-align: top;
+}
+
+.contato .redes-sociais img {
+    max-width: 25%;
+}
+
+.redes-sociais div img, .redes-sociais div p{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.redes-sociais div p {
+    width: 50%;
+}
+
+.lista-email p, .redes-sociais p{
+    margin-bottom: 15px;
+}
+
+.redes-sociais div {
+    margin-bottom: 15px;
+}
+
+.contato div {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.redes-sociais a {
     text-decoration: none;
 }
