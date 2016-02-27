@@ -1,6 +1,6 @@
 <?php
 
-  $para = "franklindeoliveira@gmail.com";
+  $para = "lacosdeencantamento@gmail.com";
   $seuNome = $_POST['seuNome'];
   $nomeDoBebe = $_POST['nomeDoBebe'];
   $dataDeNascimentoDoBebe = $_POST['dataDeNascimentoDoBebe'];

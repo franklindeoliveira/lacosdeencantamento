@@ -1,6 +1,6 @@
 <?php
 
-  $para = $_POST['email'];
+  $para = "lacosdeencantamento@gmail.com";
   $assunto = $_POST['assunto'];
 
   $nome = $_POST['nome'];
