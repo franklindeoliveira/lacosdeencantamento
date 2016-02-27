@@ -13,7 +13,8 @@
     <main>
         <section class="galeria-fotos">
             <h2>Galeria de fotos</h2>
-            <a href="img/carrossel1.jpg" data-lightbox="roadtrip" data-title="Nossa que imagem linda!">
+<!--            <a href="img/carrossel1.jpg" data-lightbox="roadtrip" data-title="Nossa que imagem linda!">-->
+            <a href="img/carrossel1.jpg" data-lightbox="roadtrip">
                 <img src="img/carrossel1.jpg" alt="Foto Oficina 1">
             </a>
             <a href="img/carrossel2.jpg" data-lightbox="roadtrip">
