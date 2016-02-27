@@ -3,7 +3,7 @@
   $para = "franklindeoliveira@gmail.com";
   $seuNome = $_POST['seuNome'];
   $assunto = $_POST['assunto'];
-  $mensagem = "<strong>Seu nome:  </strong>".$nome;
+  $mensagem = "<strong>Seu nome:  </strong>".$seuNome;
   $mensagem .= "<br>  <strong>Nome do bebê: </strong>";
   $mensagem .= "<br>  <strong>Data de nascimento do bebê: </strong>";
   $mensagem .= "<br>  <strong>Seu email: </strong>";
