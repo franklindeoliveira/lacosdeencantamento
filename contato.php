@@ -14,11 +14,12 @@
             <h2>Contato</h2>
             <div class="lista-email">
                 <p>Entre em contato conosco!</p>
-                <form action="#">
-                    <input placeholder="Nome" type="text"><br />
-                    <input placeholder="Email" type="email"><br />
-                    <input placeholder="Assunto" type="text"><br />
-                    <textarea placeholder="Mensagem"></textarea>
+                <form action="contatoEmail.php" method="post">
+                    <input name="assunto" type="hidden" id="assunto" value="Contato"><br />
+                    <input name="nome" placeholder="Nome" type="text"><br />
+                    <input name="email" placeholder="Email" type="email"><br />
+                    <input name="assuntoUsuario" placeholder="Assunto" type="text"><br />
+                    <textarea name="mensagemUsuario" placeholder="Mensagem"></textarea>
                     
                     <input type="submit" value="Enviar!">
                 </form>
