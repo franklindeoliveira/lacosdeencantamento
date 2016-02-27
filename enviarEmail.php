@@ -2,11 +2,12 @@
   //1 – Definimos Para quem vai ser enviado o email
   $para = "franklindeoliveira@gmail.com";
   //2 - resgatar o nome digitado no formulário e  grava na variavel $nome
-  $nome = "fsdf";
+  $nome = $_POST['nome'];
   // 3 - resgatar o assunto digitado no formulário e  grava na variavel //$assunto
-  $assunto = "fasfsfdfd";
+  $assunto = $_POST['assunto'];
    //4 – Agora definimos a  mensagem que vai ser enviado no e-mail
-  $mensagem = "sdadsad";
+  $mensagem = "<strong>Nome:  </strong>".$nome;
+  $mensagem .= "<br>  <strong>Mensagem: </strong>".$_POST['mensagem'];
 
 //5 – agora inserimos as codificações corretas e  tudo mais.
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
