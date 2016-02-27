@@ -11,7 +11,7 @@
   $mensagem .= "<br>  <strong>Seu email: </strong>".$seuEmail;
 
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
-  $headers .= "From: Laços de Encantamento<sistema@dominio.com.br>\n";
+  $headers .= "From: Lacos de Encantamento<sistema@dominio.com.br>\n";
   $headers .= "X-Sender:  <sistema@dominio.com.br>\n";
   $headers .= "X-Mailer: PHP  v".phpversion()."\n";
   $headers .= "X-IP:  ".$_SERVER['REMOTE_ADDR']."\n";
