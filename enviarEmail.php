@@ -1,12 +1,14 @@
 <?php
 
   $para = "franklindeoliveira@gmail.com";
-  $seuNome = $_POST['seuNome'];
+  $nomeDoBebe = $_POST['nomeDoBebe'];
+  $dataDeNascimentoDoBebe = $_POST['dataDeNascimentoDoBebe'];
+  $seuEmail = $_POST['seuEmail'];
   $assunto = $_POST['assunto'];
   $mensagem = "<strong>Seu nome:  </strong>".$seuNome;
-  $mensagem .= "<br>  <strong>Nome do bebê: </strong>";
-  $mensagem .= "<br>  <strong>Data de nascimento do bebê: </strong>";
-  $mensagem .= "<br>  <strong>Seu email: </strong>";
+  $mensagem .= "<br>  <strong>Nome do bebê: </strong>".$nomeDoBebe;
+  $mensagem .= "<br>  <strong>Data de nascimento do bebê: </strong>".$dataDeNascimentoDoBebe;
+  $mensagem .= "<br>  <strong>Seu email: </strong>".$seuEmail;
 
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
   $headers .= "From:  lacosdeencantamento.com.br<sistema@dominio.com.br>\n";
