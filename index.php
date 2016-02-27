@@ -46,7 +46,7 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
             <h2>Quer conhecer mais sobre nosso trabalho?</h2>
             <div class="lista-email">
                 <p>Faça parte da nossa lista de emails!</p>
-                <form action="enviarEmail.php">
+                <form action="enviarEmail.php" method="post">
                     <input type="hidden" name="assunto" value="Lista de Emails - Laços de Encantamento"> 
                     <input name="seuNome" placeholder="Seu nome" type="text" id="seuNome"><br />
                     <input name="nomeDoBebe" placeholder="Nome do bebê" type="text" id="nomeDoBebe"><br />
