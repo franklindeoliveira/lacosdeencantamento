@@ -302,3 +302,15 @@ header, main {
         width: 310px;
     }
 }
+
+.galeria-fotos {
+    text-align: center;
+}
+
+.galeria-fotos img {
+    width: 30%;
+}
+
+.galeria-fotos a {
+    text-decoration: none;
+}

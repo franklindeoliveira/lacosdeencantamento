@@ -7,6 +7,7 @@
             <li><a href="sobre.php">Sobre</a></li>
             <li><a href="brincadeiras.php">Brincadeiras</a></li>
             <li><a href="contato.php">Contato</a></li>
+            <li><a href="galeria.php">Galeria de Fotos</a></li>
         </ul>
     </nav>
 </header>
