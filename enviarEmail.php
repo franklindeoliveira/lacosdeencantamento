@@ -4,7 +4,7 @@
   $nomeDoBebe = $_POST['nomeDoBebe'];
   $dataDeNascimentoDoBebe = $_POST['dataDeNascimentoDoBebe'];
   $seuEmail = $_POST['seuEmail'];
-  $assunto = "Laços de Encantamento - Lista de emails";
+  $assunto = "fsdf";
   $mensagem = "<strong>Seu nome:  </strong>".$seuNome;
   $mensagem .= "<br>  <strong>Nome do bebê: </strong>".$nomeDoBebe;
   $mensagem .= "<br>  <strong>Data de nascimento do bebê: </strong>".$dataDeNascimentoDoBebe;
