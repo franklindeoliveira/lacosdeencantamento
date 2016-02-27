@@ -1,6 +1,6 @@
 <?php
 
-  $para = "franklindeoliveira@gmail.com";
+  $para = $_POST['email'];
   $assunto = $_POST['assunto'];
 
   $nome = $_POST['nome'];
@@ -10,8 +10,8 @@
 
   $mensagem = "<strong>Nome:  </strong>".$nome;
   $mensagem .= "<br>  <strong>Email: </strong>".$email;
-  $mensagem .= "<br>  <strong>Mensagem: </strong>".$mensagemUsuario;
   $mensagem .= "<br>  <strong>Assunto: </strong>".$assuntoUsuario;
+  $mensagem .= "<br>  <strong>Mensagem: </strong>".$mensagemUsuario;
 
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
   $headers .= "From: Lacos de Encantamento - Contato<sistema@dominio.com.br>\n";
