@@ -6,8 +6,10 @@
   // 3 - resgatar o assunto digitado no formulário e  grava na variavel //$assunto
   $assunto = $_POST['assunto'];
    //4 – Agora definimos a  mensagem que vai ser enviado no e-mail
-  $mensagem = "<strong>Nome:  </strong>".$nome;
-  $mensagem .= "<br>  <strong>Mensagem: </strong>".$_POST['mensagem'];
+  $mensagem = "<strong>Seu nome:  </strong>".$nome;
+  $mensagem .= "<br>  <strong>Nome do bebê: </strong>".$_POST['mensagem'];
+  $mensagem .= "<br>  <strong>Data de nascimento do bebê: </strong>".$_POST['mensagem'];
+  $mensagem .= "<br>  <strong>Seu email: </strong>".$_POST['mensagem'];
 
 //5 – agora inserimos as codificações corretas e  tudo mais.
   $headers =  "Content-Type:text/html; charset=UTF-8\n";
