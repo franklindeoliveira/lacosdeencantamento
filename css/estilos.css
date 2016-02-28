@@ -1,5 +1,44 @@
+/* INI - Componente Painel */
+.painel {
+    background-color: rgb(244,209,86);
+    border: none;
+    box-shadow: 1px 1px 1px #000;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    max-width: 335px;
+    min-height: 400px;
+}
+
+.painel h3 {
+    text-transform: uppercase;
+    margin: 5px 0px;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 5px;
+}
+
+.painel img {
+    width: 100%;
+    border-radius: 5px;
+}
+/* FIM - Componente Painel */
+
+.transparente {
+    margin: 5px 0px;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 5px;
+}
+
 h1 {
     text-align: center;
+}
+
+h2 {
+    font-family: 'Savoye LET', sans-serif;
+    font-size: 50px;
 }
 
 html {
@@ -7,7 +46,7 @@ html {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 header, main, footer {
@@ -64,9 +103,7 @@ section.carrossel-imagens {
     text-align: center;
 }
 
-.locais-oficinas img {
-    width: 100%;
-}
+
 
 footer {
     background-color: rgb(19, 144, 160);
@@ -98,10 +135,6 @@ footer .container {
     transform: translateY(-50%);
 }
 
-.logoFooter {
-    width: 100px;
-}
-
 .social li {
     display: inline-block;
 }
@@ -115,19 +148,12 @@ footer .container {
 }
 
 .logoHeader {
-    width: 100px;
+    max-width: 30%;
 }
 
-h2 {
-    color: rgb(138, 40, 153);
-}
-
-.locais-oficinas img {
-    border-radius: 5px;
-}
-
-.locais-oficinas h3 {
-    margin: 5px 0px;
+.logoFooter {
+    max-width: 100px;
+    max-height: 100px;
 }
 
 section {
@@ -144,10 +170,6 @@ figure {
     padding: 5px;
 /*    border: 1px solid rgb(138, 40, 153);*/
     background-color: rgb(244,209,86);
-}
-
-h2 {
-    font-size: 25px;
 }
 
 .casa-curumim {
@@ -189,13 +211,6 @@ h2 {
     background-color: rgb(244,209,86);
     border: none;
     box-shadow: 1px 1px 1px #000;
-}
-
-.locais-oficinas figure {
-    background-color: rgb(244,209,86);
-    border: none;
-    box-shadow: 1px 1px 1px #000;
-    padding: 10px;
 }
 
 .sobre-nos h3 {
@@ -260,18 +275,6 @@ header, main {
     max-width: 290px;
 }
 
-.locais-oficinas figure {
-    display: inline-block;
-    vertical-align: top;
-    margin: 10px;
-    max-width: 335px;
-    min-height: 400px;
-}
-
-.locais-oficinas {
-    text-align: center;
-}
-
 .contato {
     text-align: center;
 }
@@ -314,7 +317,6 @@ header, main {
 .contato .lista-email, .contato .redes-sociais{
     display: inline-block;
     min-width: 40%;
-    height: 250px;
     vertical-align: top;
 }
 
@@ -346,4 +348,8 @@ header, main {
 
 .redes-sociais a {
     text-decoration: none;
+}
+
+.locais-oficinas {
+    text-align: center;
 }

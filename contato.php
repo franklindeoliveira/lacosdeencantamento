@@ -13,7 +13,7 @@
         <section class="contato">
             <h2>Contato</h2>
             <div class="lista-email">
-                <p>Entre em contato conosco!</p>
+                <h3 class="transparente">Entre em contato conosco!</h3>
                 <form action="contatoEmail.php" method="post">
                     <input name="assunto" type="hidden" id="assunto" value="Contato"><br />
                     <input name="nome" placeholder="Nome" type="text"><br />

@@ -13,7 +13,7 @@
         <section class="tipos-brincadeiras">
             <h2>Tipos de brincadeiras</h2>
             <section class="massagem-corporal">
-                <figure>
+                <figure class="painel">
                     <h3>Massagem Corporal</h3>
                     <img src="img/massagem-corporal.jpg" alt="Massagem Corporal">    
                     <figcaption>
@@ -24,7 +24,7 @@
                 </figure>
             </section>
             <section class="contacao-historias">
-                <figure>
+                <figure class="painel">
                     <h3>Contação de Histórias</h3>
                     <img src="img/contacao-historias.jpg" alt="Contação de Histórias">    
                     <figcaption>
@@ -35,7 +35,7 @@
                 </figure>
             </section>
             <section class="desafios-corporais">
-                <figure>
+                <figure class="painel">
                     <h3>Desafios Corporais</h3>
                     <img src="img/desafios-corporais.jpg" alt="Desafios Corporais">
                     <figcaption>
@@ -46,7 +46,7 @@
                 </figure>
             </section>
             <section class="instrumentos-musicais">
-                <figure>
+                <figure class="painel">
                     <h3>Instrumentos Musicais e os Sons</h3>
                     <img src="img/instrumentos-musicais.jpg" alt="Instrumentos Musicais e os Sons">
                     <figcaption>

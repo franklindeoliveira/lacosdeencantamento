@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="css/carrossel.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'  type='text/css'>
 </head>
 <body>
     <?php include("cabecalho.php"); ?>
@@ -23,7 +24,7 @@
         </section>
         <section class="locais-oficinas">
             <h2>Onde realizamos as oficinas</h2>
-            <figure class="casa-curumim">
+            <figure class="painel">
                 <h3>Casa  Curumim</h3>
                 <img src="img/local-curumim.jpg" alt="Local Curumim">    
                 <figcaption>
@@ -34,7 +35,7 @@
                     <p>lacosdeencantamento@gmail.com</p>
                 </figcaption>
             </figure>
-            <figure class="sesc-pinheiros">
+            <figure class="painel">
                 <h3>SESC Pinheiros</h3>
                 <img src="img/local-sesc.jpg" alt="Local Sesc">
                 <figcaption>
@@ -45,7 +46,7 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
         <section class="contato">
             <h2>Quer conhecer mais sobre nosso trabalho?</h2>
             <div class="lista-email">
-                <p>Faça parte da nossa lista de emails!</p>
+                <h3 class="transparente">Faça parte da nossa lista de emails!</h3>
                 <form action="enviarEmail.php" method="post">
                     <input name="assunto" type="hidden" id="assunto" value="Lista de emails 2"><br />
                     <input name="seuNome" placeholder="Seu nome" type="text" id="seuNome"><br />
@@ -57,7 +58,7 @@ Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram
                 </form>
             </div>
             <div class="redes-sociais lista-email">
-                <p>Canais de comunicação!</p>
+                <h3 class="transparente">Canais de comunicação!</h3>
                 <div>
                     <a target="_blank" href="https://www.facebook.com/brincadeirasdebebelacos">
                         <img src="img/facebook.svg" alt="Facebook">
