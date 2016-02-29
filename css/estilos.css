@@ -37,7 +37,7 @@ h1 {
 }
 
 @font-face {
-    font-family: "Savoye LET";
+    font-family: savoye_let;
     src: url(../fonts/savoye_let.ttf);
 }
 
