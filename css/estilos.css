@@ -36,6 +36,11 @@ h1 {
     text-align: center;
 }
 
+@font-face {
+    font-family: "Savoye LET";
+    src: url(img/Savoye LET Plain1.0.ttf);
+}
+
 h2 {
     font-family: 'Savoye LET', sans-serif;
     font-size: 50px;
