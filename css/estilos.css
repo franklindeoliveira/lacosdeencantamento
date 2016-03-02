@@ -410,3 +410,11 @@ header h1, header nav {
         font-size: 100%;
     }
 }
+
+.menu-opcoes button:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 20px #ffff00;
+    -webkit-transition: box-shadow 0.5s; /* Safari */
+    transition: box-shadow 0.5s;
+    
+}
