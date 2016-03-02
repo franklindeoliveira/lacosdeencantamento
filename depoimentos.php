@@ -10,18 +10,18 @@
 <body>
     <?php include("cabecalho.php"); ?>
     <main>
-        <section>
+        <section class="depoimentos">
             <h2>Depoimentos</h2>
             <blockcote>
-                <p>Descrição do depoimento...</p>
+                <p>Descrição do depoimento... decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição</p>
                 <cite>Nome da citação</cite>
             </blockcote>
             <blockcote>
-                <p>Descrição do depoimento...</p>
+                <p>Descrição do depoimento...  decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição</p>
                 <cite>Nome da citação</cite>
             </blockcote>
             <blockcote>
-                <p>Descrição do depoimento...</p>
+                <p>Descrição do depoimento... decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição decrição</p>
                 <cite>Nome da citação</cite>
             </blockcote>
         </section>

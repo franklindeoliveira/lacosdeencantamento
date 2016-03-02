@@ -11,6 +11,10 @@
     min-height: 400px;
 }
 
+main {
+    border-radius: 5px;
+}
+
 .painel h3 {
     text-transform: uppercase;
     margin: 5px 0px;
@@ -34,6 +38,8 @@
 
 h1 {
     text-align: center;
+    max-width: 30%;
+    display: inline-block;
 }
 
 @font-face {
@@ -46,19 +52,25 @@ h2 {
     font-size: 50px;
 }
 
-html {
-    box-sizing: border-box;
-}
-
 body {
     font-family: 'Open Sans', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
 }
 
 header, main, footer {
     padding: 10px;
 }
+
+header {
+    padding-bottom: 0px;
+    padding-bottom: 0px;
+}
+
 body {
-    background: url(../img/bg.jpg);
+    background-color: rgb(19, 144, 160);
 }
 
 h2 {
@@ -69,7 +81,7 @@ img {
     max-width: 100%;
 }
 
-header, main, footer {
+main, footer {
     background-color: rgba(255,255,255,.5);
 }
 
@@ -79,13 +91,15 @@ header, main, footer {
 	text-align: center;
 }
 
-.menu-opcoes a {
+.menu-opcoes button {
     color: #1390A0;
 }
 
 .menu-opcoes {
 	text-align: center;  
     text-transform: uppercase;
+    display: inline-block;
+    width: 68%;
 }
 
 header, main, .container {
@@ -153,7 +167,7 @@ footer .container {
 }
 
 .logoHeader {
-    max-width: 30%;
+    display: inline-block;
 }
 
 .logoFooter {
@@ -167,6 +181,7 @@ section {
 }
 
 section h2 {
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 
@@ -288,17 +303,14 @@ header, main {
     margin: 15px 0;
 }
 
-@media (min-width: 457px) {
-
-    .sobre-nos figure {
-        height: 300px;
-    }
-}
-
 @media (min-width: 940px) {
     header, main {
         width: 940px;
     }
+}
+
+header {
+    text-align: center;
 }
 
 @media (min-width: 310px) {
@@ -357,4 +369,44 @@ header, main {
 
 .locais-oficinas {
     text-align: center;
+}
+
+section blockcote {
+    display: inline-block;
+    border: 2px dotted #fff;
+    max-width: 270px;
+    margin: 5px;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+section.depoimentos blockcote p {
+    margin-bottom: 10px;
+}
+
+.menu-opcoes button {
+    background-color: #ffffff;
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #ffff00;
+    font-size: 50%;
+}
+
+.menu-opcoes li a {
+    text-decoration: none;
+}
+
+header h1, header nav {
+    vertical-align: middle;
+}
+
+@media(min-width: 670px) {
+    .menu-opcoes {
+        width: 100%;
+    }
+    
+    .menu-opcoes button {
+        font-size: 100%;
+    }
 }
