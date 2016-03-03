@@ -350,7 +350,7 @@ header {
     width: 50%;
 }
 
-.lista-email p, .redes-sociais p{
+.lista-email p, .redes-sociais p {
     margin-bottom: 15px;
 }
 
@@ -386,11 +386,29 @@ section.depoimentos blockcote p {
 }
 
 .menu-opcoes button {
-    background-color: #ffffff;
-    border: 5px solid #ffffff;
+    border: 1px solid #ffffff;
     border-radius: 5px;
     box-shadow: 0px 0px 10px #ffff00;
-    font-size: 50%;
+    font-size: 68%;
+    padding: 1px 6px;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.menu-opcoes button.verde {
+    background-color: #1BC012;
+}
+
+.menu-opcoes button.amarelo {
+    background-color: #F3D82D;
+}
+
+.menu-opcoes button.laranja {
+    background-color: #F34F2D;
+}
+
+.menu-opcoes button.roxo {
+    background-color: #552DA6;
 }
 
 .menu-opcoes li a {
@@ -408,6 +426,7 @@ header h1, header nav {
     
     .menu-opcoes button {
         font-size: 100%;
+        padding: 1px 20px;
     }
 }
 
