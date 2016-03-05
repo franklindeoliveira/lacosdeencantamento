@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/estilos.css">
 	<link rel="stylesheet" href="css/carrossel.css">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <?php include("cabecalho.php"); ?>
