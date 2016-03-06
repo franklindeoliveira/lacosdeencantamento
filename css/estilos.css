@@ -51,13 +51,14 @@ body * {
 
 h2 {
     font-family: 'Amatic SC', cursive;
-    font-size: 50px;
+    font-size: 30px;
     text-transform: uppercase;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 h3 {
     font-family: 'Amatic SC', cursive;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 html {
@@ -98,7 +99,7 @@ main, footer {
 .menu-opcoes button {
     color: #1390A0;
     font-family: 'Amatic SC', cursive;
-    font-size: 20px !important;
+    font-size: 15px !important;
 }
 
 .menu-opcoes {
@@ -221,6 +222,7 @@ figure {
 
 .sobre-nos {
     text-align: center;
+    clear: both;
 }
 
 .sobre-nos img {
@@ -264,6 +266,25 @@ section img {
 
 .sobre-nossas-oficinas p {
     margin-bottom: 10px;
+}
+
+.sobre-nossas-oficinas img {
+    float: none;
+    max-width: 100%;
+}
+
+.sobre-nossas-oficinas > ul {
+    float: none;
+    max-width: 100%;
+}
+
+.sobre-nossas-oficinas ul {
+    list-style: inside;
+}
+
+.sobre-nossas-oficinas ul:nth-child(1) {
+    list-style: none;
+    margin-left: 10px;
 }
 
 .tipos-brincadeiras img {
@@ -339,7 +360,7 @@ header {
 }
 
 .contato .redes-sociais img {
-    max-width: 25%;
+    max-width: 15%;
 }
 
 .redes-sociais div img, .redes-sociais div p{
@@ -437,6 +458,20 @@ header h1, header nav {
     }
 }
 
+@media(min-width: 530px) {
+    h2 {
+        font-size: 45px;
+    }
+    
+    h3 {
+        font-size: 25px;
+    }
+    
+    .menu-opcoes button {
+        font-size: 20px !important;
+    }
+}
+
 .menu-opcoes button:hover {
     cursor: pointer;
     box-shadow: 0px 0px 20px #ffff00;
@@ -445,3 +480,33 @@ header h1, header nav {
     
 }
 
+@media(min-width: 812px) {
+    .sobre-nossas-oficinas p {
+        margin-bottom: 10px;
+    }
+
+    .sobre-nossas-oficinas img {
+        float: left;
+        margin: 10px;
+        max-width: 45%;
+        text-align: center;
+    }
+
+    .sobre-nossas-oficinas > ul {
+        max-width: 45%;
+        float: right;
+    }
+
+    .sobre-nossas-oficinas ul {
+        list-style: inside;
+    }
+
+    .sobre-nossas-oficinas ul:nth-child(1) {
+        list-style: none;
+        margin-left: 10px;
+    }
+}
+
+.floral-left, .floral-right {
+    max-width: 30%;
+}

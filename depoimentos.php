@@ -16,7 +16,7 @@
             <h2>Depoimentos</h2>
             
             <div class="lista-email">
-                <h3 class="transparente">Participou da oficinas? Conte-nos o que achou!</h3>
+                <h3 class="transparente">Participou das oficinas? Conte-nos o que achou!</h3>
                 <form action="contatoEmail.php" method="post">
                     <input name="assunto" type="hidden" id="assunto" value="Depoimento"><br />
                     <input name="nome" placeholder="Nome" type="text"><br />
