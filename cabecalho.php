@@ -1,9 +1,9 @@
 <header>
     
     <h1>
-        <img class="floral-left" src="img/floral-left.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
-        <img class="logo logoHeader" src="img/logo.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
-        <img class="floral-right" src="img/floral.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
+<!--        <img class="floral-left" src="img/floral-left.png" alt="Laços de Encantamento - Brincadeiras de Bebê">-->
+        <img class="logo logoHeader" src="img/logo3.jpg" alt="Laços de Encantamento - Brincadeiras de Bebê">
+<!--        <img class="floral-right" src="img/floral.png" alt="Laços de Encantamento - Brincadeiras de Bebê">-->
     </h1>
 <!--
     <img class="floral-left" src="img/floral-left.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
