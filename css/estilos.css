@@ -221,6 +221,7 @@ figure {
     background-color: rgb(244,209,86);
     padding: 10px;
     border-radius: 5px;
+    min-height: auto;
 }
 
 .sobre-nos img {
@@ -396,6 +397,10 @@ header {
     text-decoration: none;
 }
 
+.redes-sociais {
+    min-height: auto;
+}
+
 .locais-oficinas {
     text-align: center;
 }
@@ -488,6 +493,12 @@ header h1, header nav {
     -webkit-transition: box-shadow 0.5s; /* Safari */
     transition: box-shadow 0.5s;
     
+}
+
+@media(min-width: 645px) {
+    .lista-emails, .redes-sociais {
+        min-height: 270px;
+    }
 }
 
 @media(min-width: 812px) {
