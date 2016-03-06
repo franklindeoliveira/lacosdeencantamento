@@ -10,10 +10,6 @@
     max-width: 335px;
 }
 
-main {
-    border-radius: 5px;
-}
-
 .painel h3 {
     text-transform: capitalize;
     margin: 5px 0px 10px 0px;
@@ -31,6 +27,10 @@ main {
     margin: 15px 0;
 }
 /* FIM - Componente Painel */
+
+main {
+    border-radius: 5px;
+}
 
 .transparente {
     margin: 5px 0px;
@@ -345,12 +345,11 @@ header {
     text-align: center;
 }
 
-.galeria-fotos img {
-    width: 30%;
-}
-
 .galeria-fotos a {
     text-decoration: none;
+    max-width: 30%;
+    display: inline-block;
+    min-width: 200px;
 }
 
 .contato .lista-email, .contato .redes-sociais{
@@ -455,6 +454,9 @@ header h1, header nav {
 @media(min-width: 693px) {
     .painel {
         min-height: 642px;
+    }
+    .locais-oficinas .painel {
+        min-height: 442px;
     }
 }
 
