@@ -41,8 +41,9 @@ main {
 
 h1 {
     text-align: center;
-    max-width: 30%;
     display: inline-block;
+    max-width: 100%;
+    position: relative;
 }
 
 body * {
@@ -106,7 +107,7 @@ main, footer {
 	text-align: center;  
     text-transform: uppercase;
     display: inline-block;
-    width: 68%;
+/*    width: 68%;*/
 }
 
 header, main, .container {
@@ -173,6 +174,10 @@ footer .container {
 
 .logoHeader {
     display: inline-block;
+    position: absolute;
+    top: -36%;
+    left: 36%;
+    max-width: 30%;
 }
 
 .logoFooter {
