@@ -174,7 +174,7 @@ footer .container {
 }
 
 .logoHeader {
-    width: 55%;
+    width: 100%;
 }
 
 .logoFooter {
@@ -444,6 +444,18 @@ section.depoimentos blockcote p {
 
 header h1, header nav {
     vertical-align: middle;
+}
+
+@media(min-width: 550px) {
+    .logoHeader {
+        max-width: 80%;
+    }
+}
+
+@media(min-width: 900px) {
+    .logoHeader {
+        max-width: 55%;
+    }
 }
 
 @media(min-width: 670px) {
