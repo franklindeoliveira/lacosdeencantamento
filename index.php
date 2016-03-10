@@ -30,9 +30,9 @@
                 <img src="img/local-curumim.jpg" alt="Local Curumim">    
                 <figcaption>
                     <p>Toda 4f !</p>
-                    <p>Para Bebês de 4 meses a 6 meses as 14h30</p>
+                    <p>Para bebês de 4 meses a 6 meses as 14h30</p>
                     <p>Para bebês de 7 meses a 12 meses as 15h30</p>
-                    <p>Faça sua incrição nos mandando um email informando que dia irá brincar conosco e a idade do bebê!</p>
+                    <p>Faça sua inscrição nos mandando um email informando que dia irá brincar conosco e a idade do bebê!</p>
                     <p>lacosdeencantamento@gmail.com</p>
                 </figcaption>
             </figure>
