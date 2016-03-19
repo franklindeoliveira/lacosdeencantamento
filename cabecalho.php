@@ -1,17 +1,6 @@
+<?php include_once("analyticstracking.php") ?>
 <header>
-    
-    <h1>
-<!--        <img class="floral-left" src="img/floral-left.png" alt="Laços de Encantamento - Brincadeiras de Bebê">-->
-        <img class="logo logoHeader" src="img/logo.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
-<!--        <img class="floral-right" src="img/floral.png" alt="Laços de Encantamento - Brincadeiras de Bebê">-->
-    </h1>
-<!--
-    <img class="floral-left" src="img/floral-left.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
-    <h1>
-        <img class="logo logoHeader" src="img/logo.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
-    </h1>
-    <img class="floral-right" src="img/floral.png" alt="Laços de Encantamento - Brincadeiras de Bebê">
--->
+    <h1><img class="logo logoHeader" src="img/logo.png" alt="Laços de Encantamento - Brincadeiras de Bebê"></h1>
     <nav class="menu-opcoes">
         <ul>
             <li><a href="index.php"><button class="amarelo">Início</button></a></li>
