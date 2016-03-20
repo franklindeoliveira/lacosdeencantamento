@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Brincadeiras de bebê: Laços de Encantamento</title>
+    <title>Laços de Encantamento: Brincadeiras</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/reset.css">
