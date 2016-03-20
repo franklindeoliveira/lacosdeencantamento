@@ -351,12 +351,20 @@ header {
     vertical-align: middle;
 }
 
+/*
 .galeria-fotos a {
     text-decoration: none;
     width: 30%;
     display: inline-block;
     margin: 2px 2px;
 }
+*/
+
+.grid-item {
+    width: 200px;
+    margin-bottom: 5px;
+}
+
 
 .contato .lista-email, .contato .redes-sociais{
     display: inline-block;
