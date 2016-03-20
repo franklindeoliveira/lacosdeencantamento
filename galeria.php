@@ -17,7 +17,6 @@
         <main>
             <section class="galeria-fotos">
                 <h2>Galeria de fotos</h2>
-                <div class="grid"></div>
                 <!-- <a href="img/carrossel1.jpg" data-lightbox="roadtrip" data-title="Nossa que imagem linda!"> -->
             </section>
         </main>
@@ -25,7 +24,6 @@
         <script src="js/jquery-1.12.0.min.js"></script>
         <script src="lib/js/lightbox.js"></script>
 
-        <script src="lib/masonry.pkgd.min.js"></script>
         <script src="js/galeria.js"></script>
         
 
