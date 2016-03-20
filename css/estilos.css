@@ -351,19 +351,12 @@ header {
     vertical-align: middle;
 }
 
-/*
 .galeria-fotos a {
     text-decoration: none;
     max-width: 30%;
     display: inline-block;
     min-width: 200px;
     margin: 2px 2px;
-}
-*/
-
-.grid-item {
-    width: 30%;
-    margin-bottom: 10px;
 }
 
 .contato .lista-email, .contato .redes-sociais{
