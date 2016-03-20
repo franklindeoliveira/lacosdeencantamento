@@ -353,9 +353,8 @@ header {
 
 .galeria-fotos a {
     text-decoration: none;
-    max-width: 30%;
+    width: 30%;
     display: inline-block;
-    min-width: 200px;
     margin: 2px 2px;
 }
 

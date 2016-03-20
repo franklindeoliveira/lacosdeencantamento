@@ -3,8 +3,4 @@ $(function() {
         var foto = '<a href="img/galeria/foto'+i+'.jpg" data-lightbox="roadtrip"><img src="img/galeria/foto'+i+'.jpg" alt="Foto '+i+'"></a>'
         $('.galeria-fotos').append(foto);
     }
-//    $('.grid').masonry({
-//        itemSelector: '.grid-item',
-//        columnWidth: 10
-//    });
 });
