@@ -187,6 +187,7 @@
     
     <script src="js/galeria.js"></script>
     
+    <script src="lib/imagesloaded.pkgd.min.js"></script>
     <script src="lib/masonry.pkgd.min.js"></script>
     
     
