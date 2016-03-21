@@ -2,35 +2,35 @@
 <header>
     <h1><img class="logo logoHeader" src="img/logo.png" alt="Laços de Encantamento: Brincadeiras de Bebê"></h1>
     <nav class="menu-opcoes">
-        <ul>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="index.php">
-                    <button itemprop="title" class="amarelo">Início</button>
+        <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="index.php">
+                    <button itemprop="name" class="amarelo">Início</button>
                 </a>
             </li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="sobre.php">
-                    <button itemprop="title" class="verde">Sobre</button>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="sobre.php">
+                    <button itemprop="name" class="verde">Sobre</button>
                 </a>
             </li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="brincadeiras.php">
-                    <button itemprop="title" class="roxo">Brincadeiras</button>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="brincadeiras.php">
+                    <button itemprop="name" class="roxo">Brincadeiras</button>
                 </a>
             </li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="contato.php">
-                    <button itemprop="title" class="laranja">Contato</button>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="contato.php">
+                    <button itemprop="name" class="laranja">Contato</button>
                 </a>
             </li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="galeria-fotos.php">
-                    <button itemprop="title" class="amarelo">Galeria de Fotos</button>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="galeria-fotos.php">
+                    <button itemprop="name" class="amarelo">Galeria de Fotos</button>
                 </a>
             </li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                <a itemprop="url" href="depoimentos.php">
-                    <button itemprop="title" class="verde">Depoimentos</button>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="depoimentos.php">
+                    <button itemprop="name" class="verde">Depoimentos</button>
                 </a>
             </li>
         </ul>
