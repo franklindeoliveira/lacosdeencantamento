@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Laços de Encantamento: Brincadeiras de bebê</title>
+    <title>Laços de Encantamento: Brincadeiras de Bebê</title>
+    <meta name="description" content="<strong>Laços de Encantamento<strong> é uma proposta de oficinas de brincadeiras para bebês - semanalmente na Casa Curumim, 4f as 14:30 para bebês de 3 à 6 meses e 15:30 para bebês de 7 à 12 meses.">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/reset.css">
@@ -26,19 +27,19 @@
         <section class="locais-oficinas">
             <h2>Onde realizamos as oficinas</h2>
             <figure class="painel">
-                <h3>Casa  Curumim</h3>
-                <img src="img/local-curumim.jpg" alt="Local Curumim">    
+                <h3>Casa Curumim</h3>
+                <img src="img/local-curumim.jpg" alt="Oficina na Casa Curumim">    
                 <figcaption>
-                    <p>Toda 4f !</p>
-                    <p>Para bebês de 4 meses a 6 meses as 14h30</p>
-                    <p>Para bebês de 7 meses a 12 meses as 15h30</p>
+                    <p>Toda 4f na <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes/">Casa Curumim!</a>
+                    <p>Para bebês de 4 à 6 meses às 14h30</p>
+                    <p>Para bebês de 7 à 12 meses às 15h30</p>
                     <p>Faça sua inscrição nos mandando um email informando que dia irá brincar conosco e a idade do bebê!</p>
                     <p>lacosdeencantamento@gmail.com</p>
                 </figcaption>
             </figure>
             <figure class="painel">
                 <h3>SESC Pinheiros</h3>
-                <img src="img/local-sesc.jpg" alt="Local Sesc">
+                <img src="img/local-sesc.jpg" alt="Oficina no SESC Pinheiros">
                 <figcaption>
 Em 12/01/2016, 14/01/2016 e 16/01/2016  realizamos 5  oficinas onde compareceram mais de 60 bebês!! Bebês e famílias interessadas em Brincar!! Foi muito gratificante ver tantas famílias querendo participar!! 
                 </figcaption>    
