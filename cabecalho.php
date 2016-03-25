@@ -6,7 +6,7 @@
             <?php if (!is_null($inicio)) { ?>
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a itemprop="item" href="index.php">
-                    <button itemprop="name" class="amarelo">Início 1</button>
+                    <button itemprop="name" class="amarelo">Início</button>
                 </a>
             </li>
             <?php } else { ?>
