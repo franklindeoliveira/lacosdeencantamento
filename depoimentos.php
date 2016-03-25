@@ -10,6 +10,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
+    <?php $depoimentos="" ?>
     <?php include("cabecalho.php"); ?>
     <main>
         <section class="depoimentos contato">
