@@ -8,6 +8,7 @@
     vertical-align: top;
     margin: 10px;
     max-width: 335px;
+    border-radius: 5px;
 }
 
 .painel h3 {
@@ -187,15 +188,8 @@ section {
 }
 
 section h2 {
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-figure {
-    border-radius: 5px;
-    padding: 5px;
-/*    border: 1px solid rgb(138, 40, 153);*/
-    background-color: rgb(244,209,86);
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .casa-curumim {
@@ -339,6 +333,9 @@ header {
 
 @media (min-width: 310px) {
     .tipos-brincadeiras section {
+        width: 310px;
+    }
+    .leituras section {
         width: 310px;
     }
 }
@@ -539,4 +536,33 @@ header h1, header nav {
 
 .floral-left, .floral-right {
     max-width: 30%;
+}
+
+section.leituras ol {
+    list-style: decimal;
+}
+
+section.leituras ol li {
+    margin: 15px 20px;
+}
+
+.lacosDeEncantamento strong {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.lacosDeEncantamento span {
+    font-style: italic;
+}
+
+.lacosDeEncantamento {
+    text-align: center;
+}
+
+section.leituras section {
+    display: inline-block;
+}
+
+section.leituras {
+    text-align: center;
 }

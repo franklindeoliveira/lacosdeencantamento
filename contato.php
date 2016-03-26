@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Laços de Encantamento: Contato</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/estilos.css">
-	<link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css'>
+    <title>Contato | Laços de Encantamento</title>
+    <meta name="description" content="Entre em contato conosco para informações sobre nossas oficinas.">
+    <?php include("head.php"); ?>
 </head>
 <body>
     <?php $contato="" ?>

@@ -81,6 +81,19 @@
                 </a>
             </li>
             <?php } ?>
+            <?php if (!is_null($leituras)) { ?>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="leia.php">
+                    <button itemprop="name" class="roxo">Leituras</button>
+                </a>
+            </li>
+            <?php } else { ?>
+            <li>
+                <a href="leituras.php">
+                    <button class="roxo">Leituras</button>
+                </a>
+            </li>
+            <?php } ?>
         </ul>
     </nav>
 </header>

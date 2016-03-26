@@ -2,19 +2,21 @@
 <html lang="en">
 <head>
     <title>Laços de Encantamento: Brincadeiras de Bebê</title>
-    <meta name="description" content="<strong>Laços de Encantamento<strong> é uma proposta de oficinas de brincadeiras para bebês - semanalmente na Casa Curumim, 4f as 14:30 para bebês de 3 à 6 meses e 15:30 para bebês de 7 à 12 meses.">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/estilos.css">
+    <meta name="description" content="<strong>Laços de Encantamento</strong> é uma proposta de oficinas de brincar para bebês de 3 meses à 1 ano.">
+    <?php include("head.php"); ?>
 	<link rel="stylesheet" href="css/carrossel.css">
-	<link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <?php $inicio="" ?>
     <?php include("cabecalho.php"); ?>
     <main>
+        <section class="lacosDeEncantamento">
+            <h2>Laços de Encantamento</h2>
+            <p><strong>Laços de Encantamento</strong> é uma proposta de oficinas de brincar para bebês de 3 meses à 1 ano.</p>
+            <p>A palavra <strong>Encantamento</strong> surge por sugestão de Gabriela mãe do João que se referiu a nossa oficina como "um encantamento"!</p>
+            <p><strong>Laços</strong> vêm com nossa vontade de que os encontros fortaleçam os vínculos entre famílias e bebês, com um olhar entre ambos encantando-se mutuamente. O nome "Laços de Encantamento" se consagrou quando nos deparamos com a origem da palavra Brincar.</p>
+            <p>Brincar vem de <span>vinculum</span> que quer dizer laço, e é derivada do verbo <span>vincire</span>, que significa encantar. <span>Vinculum</span> virou brinco e originou o verbo brincar, sinônimo de divertir-se. (www.dicionarioetimologico.com.br)</p>
+        </section>
         <section class="carrossel-imagens">
             <h2>Oficinas de Brincar</h2>
             <div class="jcarousel">
