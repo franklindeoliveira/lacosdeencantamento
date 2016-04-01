@@ -3,7 +3,7 @@
 
 <head>
     <title>Galeria de Fotos | Laços de Encantamento</title>
-    <meta name="description" content="<strong>Laços de Encantamento</strong> é uma proposta de oficinas de brincar para bebês de 3 meses à 1 ano.">
+    <meta name="description" content="Confira a galeria de fotos das nossas oficinas de brincar.">
     <?php include("head.php"); ?>
     <link rel="stylesheet" href="lib/css/lightbox.css">
 </head>

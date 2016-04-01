@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Depoimentos | Laços de Encantamento</title>
-    <meta name="description" content="<strong>Laços de Encantamento</strong> é uma proposta de oficinas de brincar para bebês de 3 meses à 1 ano.">
+    <meta name="description" content="Conheça a opinião de quem já participou das oficinas.">
     <?php include("head.php"); ?>
 </head>
 <body>
