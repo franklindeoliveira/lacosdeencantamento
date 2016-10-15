@@ -16,6 +16,19 @@
                 </a>
             </li>
             <?php } ?>
+            <?php if (!is_null($oficinas)) { ?>
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="oficinas.php">
+                    <button itemprop="name" class="laranja">Oficinas</button>
+                </a>
+            </li>
+            <?php } else { ?>
+            <li>
+                <a href="oficinas.php">
+                    <button class="laranja">Oficinas</button>
+                </a>
+            </li>
+            <?php } ?>
             <?php if (!is_null($sobre)) { ?>
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a itemprop="item" href="sobre.php">

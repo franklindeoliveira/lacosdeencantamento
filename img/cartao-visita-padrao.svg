@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="cartao-visita.svg">
   <defs
      id="defs4">
     <filter
@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.3898955"
-     inkscape:cx="283.7519"
-     inkscape:cy="172.07177"
+     inkscape:zoom="2.1949478"
+     inkscape:cx="223.68382"
+     inkscape:cy="86.842101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -560,7 +560,7 @@
          id="tspan4247"
          x="-848.47437"
          y="553.91187"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Light Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">(11) 99811-9597</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;line-height:100%;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Light Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">(11) 99811-5595</tspan></text>
     <image
        width="7.9904237"
        height="7.9904237"
@@ -571,9 +571,9 @@
        y="547.8382" />
     <rect
        y="457.96072"
-       x="-1078.3176"
+       x="-1078.6593"
        height="28.061659"
-       width="283.15216"
+       width="283.49387"
        id="rect4251"
        style="opacity:1;fill:#7bc1ca;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:8;stroke-opacity:1" />
     <text

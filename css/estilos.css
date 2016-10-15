@@ -20,7 +20,7 @@
 }
 
 .painel img {
-    width: 100%;
+    width: 1000px;
     border-radius: 5px;
 }
 
@@ -564,5 +564,9 @@ section.leituras section {
 }
 
 section.leituras {
+    text-align: center;
+}
+
+.oficinas {
     text-align: center;
 }
