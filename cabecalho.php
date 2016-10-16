@@ -19,13 +19,13 @@
             <?php if (!is_null($oficinas)) { ?>
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a itemprop="item" href="oficinas.php">
-                    <button itemprop="name" class="laranja">Oficinas</button>
+                    <button itemprop="name" class="laranja">Oficinas e Cursos</button>
                 </a>
             </li>
             <?php } else { ?>
             <li>
                 <a href="oficinas.php">
-                    <button class="laranja">Oficinas</button>
+                    <button class="laranja">Oficinas e Cursos</button>
                 </a>
             </li>
             <?php } ?>

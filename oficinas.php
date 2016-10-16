@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Oficinas | Laços de Encantamento</title>
+    <title>Oficinas e Cursos | Laços de Encantamento</title>
     <meta name="description" content="Conheça um pouco sobre nós e nosso trabalho.">
     <?php include("head.php"); ?>
 </head>
@@ -11,7 +11,7 @@
     <?php include("cabecalho.php"); ?>
     <main>
         <section class="oficinas">
-            <h2>Oficinas</h2>
+            <h2>Oficinas e Cursos</h2>
             <figure class="painel">
                 <a name="oficina-desenvolver-brincando"></a>
                 <h3>Oficina Desenvolver Brincando<br />Casa Curumim</h3>
@@ -76,14 +76,14 @@
                     registrar nossas oficinas... que habilidades você pode oferecer em troca da oficina?</p>
             </figure>
             <figure class="painel">
-                <a name="oficina-brinkancora"></a>
+                <a name="do-que-brincar-bebes"></a>
                 <h3>Curso: "Do que brincar com os bebês"<br />Ôkupa Âncora</h3>
 
-                <p>Data: 11/02/2017 das 14h as 17h.</p><br />
+                <p>Data: 11/02/2017 das 13h30 às 16h30.</p><br />
                 <p>Para educadores e terapeutas que trabalham com bebês de 0 a 24 meses.
                 <p>Curso focado em brincadeiras que estimulem o desenvolvimento global dos bebês.</p><br />
 
-                <p>Conteúdo: marcos do desenvolvimento - motor global, motor fino, cognitivos e linguagem. Uso de recursos
+                <p>Conteúdo: marcos do desenvolvimento - motor grosso, motor fino, cognitivo e linguagem. Uso de recursos
                 como contação de histórias, músicas e brinquedos simples e criativos. A importância do contexto para
                 o desenvolvimento do bebê.</p><br />
 

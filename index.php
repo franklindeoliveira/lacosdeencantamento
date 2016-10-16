@@ -35,17 +35,16 @@
             </div>
         </section>
         <section class="locais-oficinas">
-            <h2>Onde realizamos as oficinas</h2>
+            <h2>Onde realizamos as oficinas e cursos</h2>
             <figure class="painel">
                 <h3>Casa Curumim</h3>
                 <img src="img/oficina-casa-curumim.jpg" alt="Oficina na Casa Curumim">    
                 <figcaption>
-                    <p>Toda 6f na <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes/">Casa Curumim</a>!</p><br />
+                    <p>Toda 6f na <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes">Casa Curumim</a>!</p><br />
                     <ul>
-                        <li>- Oficina Desenvolver Brincando (<a href="http://localhost:8080/oficinas.php#oficina-desenvolver-brincando">mais informações</a>)</li>
-                        <li>- Oficinas Temáticas (<a href="http://localhost:8080/oficinas.php#oficinas-tematicas">mais informações</a>):<br /> Contação de histórias e Brinquedos encantadores</li>
+                        <li>- Oficina Desenvolver Brincando (<a href="oficinas.php#oficina-desenvolver-brincando">mais informações</a>)</li>
+                        <li>- Oficinas Temáticas (<a href="oficinas.php#oficinas-tematicas">mais informações</a>):<br /> Contação de histórias e Brinquedos encantadores</li>
                     </ul><br />
-
                     <p>Endereço: Rua Pereira Leite, 513 - Vila Madalena - São Paulo, SP</p><br />
                 </figcaption>
             </figure>
@@ -53,10 +52,11 @@
                 <h3>Ôkupa Âncora</h3>
                 <img src="img/oficina-okupa-ancora.jpg" alt="Oficina na Casa Curumim">    
                 <figcaption>
-                    <p>Toda 4f no <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes/">Projeto Âncora</a>!</p><br />
+                    <p>Toda 4f no <a target="_blank" href="http://projetoancora.org.br/">Projeto Âncora</a>!</p><br />
                     <ul>
-                        <li>- Oficina Brinkâncora (<a href="http://localhost:8080/oficinas.php#oficina-brinkancora">mais informações</a>)</li>
-                    <br />
+                        <li>- Oficina Brinkâncora (<a href="oficinas.php#oficina-brinkancora">mais informações</a>)</li>
+                        <li>- Curso: "Do Que Brincar Com Os Bebês" (<a href="oficinas.php#do-que-brincar-bebes">mais informações</a>)</li>
+                    </ul><br />
                     <p>Endereço: Estrada Municipal Walter Steurer, 1239 - Jd. Rebelato - Cotia, SP - Km 21 da Rodovia Raposo Tavares</p><br />
                 </figcaption>
             </figure>
