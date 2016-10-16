@@ -79,7 +79,7 @@
                 <a name="do-que-brincar-bebes"></a>
                 <h3>Curso: "Do que brincar com os bebês"<br />Ôkupa Âncora</h3>
 
-                <p>Data: 11/02/2017 das 13h30 às 16h30.</p><br />
+                <p>Data: 11/02/2017 das 13h30 às 17h30.</p><br />
                 <p>Para educadores e terapeutas que trabalham com bebês de 0 a 24 meses.
                 <p>Curso focado em brincadeiras que estimulem o desenvolvimento global dos bebês.</p><br />
 
