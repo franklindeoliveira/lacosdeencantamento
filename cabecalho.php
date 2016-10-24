@@ -24,7 +24,7 @@
             </li>
             <?php } else { ?>
             <li>
-                <a href="oficinas.php">
+                <a href="oficinas-e-cursos">
                     <button class="laranja">Oficinas e Cursos</button>
                 </a>
             </li>
