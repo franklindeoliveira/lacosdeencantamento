@@ -18,7 +18,7 @@
             <?php } ?>
             <?php if (!is_null($oficinas)) { ?>
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                <a itemprop="item" href="oficinas">
+                <a itemprop="item" href="oficinas-e-cursos">
                     <button itemprop="name" class="laranja">Oficinas e Cursos</button>
                 </a>
             </li>
