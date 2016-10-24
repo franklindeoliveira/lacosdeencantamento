@@ -70,13 +70,13 @@
             <?php } ?>
             <?php if (!is_null($fotos)) { ?>
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                <a itemprop="item" href="galeria-fotos">
+                <a itemprop="item" href="galeria-de-fotos">
                     <button itemprop="name" class="amarelo">Galeria de Fotos</button>
                 </a>
             </li>
             <?php } else { ?>
             <li>
-                <a href="galeria-fotos">
+                <a href="galeria-de-fotos">
                     <button class="amarelo">Galeria de Fotos</button>
                 </a>
             </li>
