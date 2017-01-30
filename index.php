@@ -40,10 +40,10 @@
                 <h3>Casa Curumim</h3>
                 <img src="img/oficina-casa-curumim.jpg" alt="Oficina na Casa Curumim">    
                 <figcaption>
-                    <p>Toda 6f na <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes">Casa Curumim</a>!</p><br />
+                    <p>Toda 4f às 15h na <a target="_blank" href="http://www.casacurumim.com.br/oficina-brincadeiras-de-bebes">Casa Curumim</a>!</p><br />
                     <ul>
-                        <li>- Oficina Desenvolver Brincando (<a href="oficinas.php#oficina-desenvolver-brincando">mais informações</a>)</li>
-                        <li>- Oficinas Temáticas (<a href="oficinas.php#oficinas-tematicas">mais informações</a>):<br /> Contação de histórias e Brinquedos encantadores</li>
+                        <li>- Oficina Desenvolver Brincando (<a href="oficinas-e-cursos#oficina-desenvolver-brincando">mais informações</a>)</li>
+                        <li>- Oficinas Temáticas (<a href="oficinas-e-cursos#oficinas-tematicas">mais informações</a>):<br /> Contação de histórias e Brinquedos encantadores</li>
                     </ul><br />
                     <p>Endereço: Rua Pereira Leite, 513 - Vila Madalena - São Paulo, SP</p><br />
                 </figcaption>
@@ -54,8 +54,8 @@
                 <figcaption>
                     <p>Toda 4f no <a target="_blank" href="http://projetoancora.org.br/">Projeto Âncora</a>!</p><br />
                     <ul>
-                        <li>- Oficina Brinkâncora (<a href="oficinas.php#oficina-brinkancora">mais informações</a>)</li>
-                        <li>- Curso: "Do Que Brincar Com Os Bebês" (<a href="oficinas.php#do-que-brincar-bebes">mais informações</a>)</li>
+                        <li>- Oficina Brinkâncora (<a href="oficinas-e-cursos#oficina-brinkancora">mais informações</a>)</li>
+                        <li>- Curso: "Do Que Brincar Com Os Bebês" (<a href="oficinas-e-cursos#do-que-brincar-bebes">mais informações</a>)</li>
                     </ul><br />
                     <p>Endereço: Estrada Municipal Walter Steurer, 1239 - Jd. Rebelato - Cotia, SP - Km 21 da Rodovia Raposo Tavares</p><br />
                 </figcaption>

@@ -11,49 +11,51 @@
     <main>
         <section class="oficinas">
             <h2>Oficinas e Cursos</h2>
-            <figure class="painel">
+            <figure class="painel painel-fullwidth">
                 <a name="oficina-desenvolver-brincando"></a>
                 <h3>Oficina Desenvolver Brincando<br />Casa Curumim</h3>
-                <p>Oficina oferecida mensalmente em 3 encontros, que ocorrem nas 3 primeiras sexta-feiras de cada mês.</p><br />
-                <p>Em cada dia vamos conversar e propor brincadeiras que entimulem o desenvolvimento do seu bebê.</p><br />
 
-                <p>1º encontro - Brincar na rotina do bebê: potencializando o desenvolvimento.<br />
-                2º encontro - A sensibilidade do olhar: reconhecendo necessidades, interesses e desafios do desenvolvimento.<br />
-                3º encontro - A importância do fazer: ampliando os recursos do brincar.</p><br />
+                <p>O objetivo desses encontros é potencializar os familiares na estimulação do desenvolvimento de seus bebês mês a mês a partir da:</p>
+                    - identificação das necessidades, desafios e interesses de cada bebê conforme seus desejos e faixas etárias.<br />
+                    - ampliação do repertório de brincadeiras dos familiares.
+                </p><br />
+                <p>No encontro buscamos ainda:
+                    <br />- oferecer um espaço de contato com outras famílias e bebês que enriquecem as experiências de todos os participantes.
+                    <br />- vivenciar brincadeiras que favoreçam que os bebês enfrentem a cada encontro novos desafios que são inerentes ao processo de desenvolvimento.
+                </p>
+                <br />
+                <p>Nem sempre é fácil para o bebê ficar de barriga para baixo, rolar, sair do colo e iniciar a exploração do ambiente, arrastar e engatinhar. 
+                    Alguns são mais sensíveis a texturas diferentes balanços, entre outros desafios. As oficinas oferecem um ambiente favorável para o enfrentamento desses desafios!</p>
+                <p>O brincar e o afeto são nossos principais recursos! Vem com a gente!</p>
+                <br />
 
-                <p>Confira os horários e faixas etárias dos próximos meses:</p><br />
+                <p>Bebês de 03 a 05 meses: 08/02, 08/03, 05/04, 03/05 e 07/06</p>
+                <p>Bebês de 06 a 09 meses: 15/02, 15/03, 12/04, 10/05 e 14/06</p>
+                <p>Bebês de 10 a 12 meses: 22/02, 22/03, 19/04, 17/05 e 21/06</p>
 
-                <p><strong>Novembro, dias 04, 11 e 18:</strong></p>
-                <p>- 14h00, para bebês de 3 a 6 meses.</p>
-                <p>- 15h30, para bebês de 7 a 12 meses.</p><br />
-
-                <p>Dezembro, dias 02, 09 e 16:</p>
-                <p>- 14h00, para bebês de 7 a 12 meses.</p>
-                <p>- 15h30, para bebês de 3 a 6 meses.</p><br /><br />
-
-                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com anexando comprovante de pagamento.<br /><br />
-                <p>Mensalidade: R$ 200,00 - 3 encontros<br />
-                Banco do Brasil<br />
-                Ag 3560-2<br />
-                Cc 16389-9<br />
-                Em nome de Lucila Faleiros Neves<br />
-                CPF 048.152.738-98</p>
+                <br />
+                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com
+                ou 99811-5595 (WhatsApp)</p>
+                <p>R$ 100,00 por oficina, na recepção da Casa Curumim, Rua Pereira Leite 513, 3803-9459.</p>
             </figure>
-            <figure class="painel">
+            <figure class="painel painel-fullwidth">
                 <a name="oficinas-tematicas"></a>
                 <h3>Oficinas Temáticas - Casa Curumim</h3>
-                <p>Oficinas oferecidas todas as últimas sexta-feiras do mês das 14h30 às 16h para bebês de 3 à 12 meses.</p><br />
-                
-                <p>- Contação de Histórias: acesso ao mundo simbólico - 28/10/2016</p>
-                <p>- Brinquedos Encantadores: simples, criativos e afetivos - 25/11/2016</p><br /><br />
-
-                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com anexando comprovante de pagamento.<br /><br />
-                <p>Avulsa: R$ 100,00 por oficina<br />
-                Banco do Brasil<br />
-                Ag 3560-2<br />
-                Cc 16389-9<br />
-                Em nome de Lucila Faleiros Neves<br />
-                CPF 048.152.738-98</p>
+                <p>As oficinas temáticas buscam oferecer oportunidades para as famílias ampliarem o repertório de brincadeiras específicas:</p>
+                <br />
+                <p>Dia 29/03: Música - Para um cotidiano afetivo e repleto de aprendizados! A música pode ser uma estratégia para facilitar, marcar e aproveitar um momento da rotina. Podemos utilizar músicas folclóricas e populares, explorar objetos sonoros e instrumentos musicais e utilizar o corpo para produzir sons! Nossa oficina apresenta as possibilidades do uso da música no cotidiano do bebê. Mas lembrem-se de que cada momento musical deve ser explorado o mais profundamente possível, com delicadeza e respeito pelo seu momento e pelo momento e interesse do bebê!</p>
+                <br />
+                <p>Dia 26/04: Contação de Histórias - A contação de histórias pode ser um momento especial de encontro entre você e seus bebê. Além de ir apresentando o mundo por meio de símbolos visuais e sonoros. Um experiência muito diferente do que o bebê está acostumado! A história ajuda a fortalecer o vínculo, desenvolve atenção, memória e vocabulário, ajuda a relaxar.</p>
+                <br />
+                <p>Dia 24/05: Massagem - A massagem pode ser utilizada para o bebê sentir a unidade do seu corpo e aos poucos aprender a distinguir o seu corpo de um outro. Ajuda o bebê a identificarem partes determinadas do corpo ou mesmo a sentir um toque em regiões que normalmente não são tocadas. Pode ser um momento de encontro corporal, de olhares, sensações, relaxamento e prazer.</p>
+                <br />
+                <p>Dia 31/05: Explorações Sensoriais - A ênfase desta oficina está na vivência sensorial tátil, visual, vestibular e propriocetiva a partir do oferecimento de materiais com texturas, cores e brilhos distintos assim como diferentes posições do corpo no espaço</p>
+                <br />
+                <p>Dia 28/06: Brinquedos Encantadores - Simples, criativos e afetivos: Temos muitos objetos em casa que podem se tornar brinquedos! O mais importante é reconhecermos os interesses do bebê e o por que desses interesses ... e a partir disso observar, criar e dar vida a objetos simples e do nosso ambiente!</p>
+                <br />
+                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com
+                ou 99811-5595 (WhatsApp)</p>
+                <p>R$ 100,00 por oficina, na recepção da Casa Curumim, Rua Pereira Leite 513, 3803-9459.</p>
             </figure>
             <figure class="painel">
                 <a name="oficina-brinkancora"></a>
