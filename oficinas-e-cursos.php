@@ -12,6 +12,29 @@
         <section class="oficinas">
             <h2>Oficinas e Cursos</h2>
             <figure class="painel painel-fullwidth">
+                <a name="do-que-brincar-bebes"></a>
+                <h3>Curso: "Brincar com bebês: a observação sensível e autonomia da ação"<br />Ôkupa Âncora</h3>
+
+                <p>Data: 24/06/2017 das 09h00 às 16h00.</p><br />
+                <p>Para educadores e terapeutas que trabalham com bebês de 0 a 24 meses.
+                <p>Curso focado em brincadeiras que estimulem o desenvolvimento global dos bebês.</p><br />
+
+                <p>Conteúdo: marcos do desenvolvimento - motor grosso, motor fino, cognitivo e linguagem. Uso de recursos
+                como contação de histórias, músicas e brinquedos simples e criativos. A importância do contexto e da organização do ambiente para
+                o desenvolvimento e autonomia do bebê.</p><br />
+
+                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com anexando comprovante de pagamento.<br /><br />
+                <p>Data limite para inscrição e pagamento: 18/06/2017</p>
+                <p>Investimento: R$ 200,00.<br />
+                20 vagas. Mínimo de 10 participantes.<br />
+                Banco do Brasil<br />
+                Ag 3560-2<br />
+                Cc 16389-9<br />
+                Em nome de Lucila Faleiros Neves<br />
+                CPF 048.152.738-98</p><br />
+                <p>Local: Projeto Âncora, Estrada Municipal Walter Steurer, 1239. Jd Rebelato - Cotia - SP (altura do km 21 da Rodovia Raposo Tavares)</p>
+            </figure>
+            <figure class="painel painel-fullwidth">
                 <a name="oficina-desenvolver-brincando"></a>
                 <h3>Oficina Desenvolver Brincando<br />Casa Curumim</h3>
 
@@ -57,7 +80,7 @@
                 ou 99811-5595 (WhatsApp)</p>
                 <p>R$ 100,00 por oficina, na recepção da Casa Curumim, Rua Pereira Leite 513, 3803-9459.</p>
             </figure>
-            <figure class="painel">
+            <figure class="painel painel-fullwidth">
                 <a name="oficina-brinkancora"></a>
                 <h3>Oficina Brinkâncora - Ôkupa Âncora</h3>
                 <p>Oficina oferecida semanalmente, toda quarta-feira às 15h30.</a><br /><br />
@@ -76,30 +99,6 @@
                     costura/marcenaria você pode confeccionar alguns brinquedos para a oficina. Se você sabe tirar fotos, você pode
                     registrar nossas oficinas... que habilidades você pode oferecer em troca da oficina?</p>
             </figure>
-            <figure class="painel">
-                <a name="do-que-brincar-bebes"></a>
-                <h3>Curso: "Do que brincar com os bebês"<br />Ôkupa Âncora</h3>
-
-                <p>Data: 11/02/2017 das 13h30 às 17h30.</p><br />
-                <p>Para educadores e terapeutas que trabalham com bebês de 0 a 24 meses.
-                <p>Curso focado em brincadeiras que estimulem o desenvolvimento global dos bebês.</p><br />
-
-                <p>Conteúdo: marcos do desenvolvimento - motor grosso, motor fino, cognitivo e linguagem. Uso de recursos
-                como contação de histórias, músicas e brinquedos simples e criativos. A importância do contexto para
-                o desenvolvimento do bebê.</p><br />
-
-                <p>Faça sua inscrição enviando um email para lacosdeencantamento@gmail.com anexando comprovante de pagamento.<br /><br />
-                <p>Ganhe um kit de materiais para brincar com os bebês!</p>
-                <p>Data limite para inscrição e pagamento: 31/01/2017</p>
-                <p>Investimento: R$ 150,00.<br />
-                20 vagas. Mínimo de 10 participantes.<br />
-                Banco do Brasil<br />
-                Ag 3560-2<br />
-                Cc 16389-9<br />
-                Em nome de Lucila Faleiros Neves<br />
-                CPF 048.152.738-98</p>
-            </figure>
-
         </section>
     </main>
     <?php include("rodape.php"); ?>
